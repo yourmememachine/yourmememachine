@@ -17,6 +17,8 @@
 190 tests passing · localnet-proven · **unaudited** · staged testnet-first launch · no token sale — $MACHINE is gas, not an investment.
 
 - 📦 Code: [yourmememachine/mememachine](https://github.com/yourmememachine/mememachine)
+- 🛡️ Security field guide: [yourmememachine/solana-security-patterns](https://github.com/yourmememachine/solana-security-patterns)
+- 🧭 Fork guide: [yourmememachine/agave-fork-guide](https://github.com/yourmememachine/agave-fork-guide)
 - 🌐 Website: [machinechain.netlify.app](https://machinechain.netlify.app/)
 - 🎬 Demo: [LaunchGuard in action](https://github.com/user-attachments/assets/4d53b2b1-aca7-4ca3-9d70-caad256bb3a9)
 - 𝕏 [@yourmememachine](https://x.com/yourmememachine) · Telegram [@Greenpumpsol](https://t.me/Greenpumpsol)
